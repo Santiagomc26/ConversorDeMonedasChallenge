@@ -1,0 +1,72 @@
+[
+  {
+    "monedaOrigen": "USD",
+    "monedaDestino": "ARS",
+    "montoOrigen": 1.0,
+    "montoDestino": 1042.25,
+    "fecha": "2025-01-16T19:18:38.5505468"
+  },
+  {
+    "monedaOrigen": "ARS",
+    "monedaDestino": "USD",
+    "montoOrigen": 2.0,
+    "montoDestino": 0.001918925401775006,
+    "fecha": "2025-01-16T19:18:41.1109836"
+  },
+  {
+    "monedaOrigen": "USD",
+    "monedaDestino": "BRL",
+    "montoOrigen": 3.0,
+    "montoDestino": 18.075000000000003,
+    "fecha": "2025-01-16T19:18:43.1011564"
+  },
+  {
+    "monedaOrigen": "BRL",
+    "monedaDestino": "USD",
+    "montoOrigen": 4.0,
+    "montoDestino": 0.6639004149377593,
+    "fecha": "2025-01-16T19:18:46.8316945"
+  },
+  {
+    "monedaOrigen": "BOB",
+    "monedaDestino": "USD",
+    "montoOrigen": 5.0,
+    "montoDestino": 0.7214382593137679,
+    "fecha": "2025-01-16T19:18:48.6069792"
+  },
+  {
+    "monedaOrigen": "USD",
+    "monedaDestino": "BOB",
+    "montoOrigen": 6.0,
+    "montoDestino": 41.583600000000004,
+    "fecha": "2025-01-16T19:18:50.3980705"
+  },
+  {
+    "monedaOrigen": "CLP",
+    "monedaDestino": "USD",
+    "montoOrigen": 7.0,
+    "montoDestino": 0.0069579676134439465,
+    "fecha": "2025-01-16T19:18:54.0798894"
+  },
+  {
+    "monedaOrigen": "USD",
+    "monedaDestino": "CLP",
+    "montoOrigen": 8.0,
+    "montoDestino": 8048.3272,
+    "fecha": "2025-01-16T19:18:57.0819478"
+  },
+  {
+    "monedaOrigen": "USD",
+    "monedaDestino": "COP",
+    "montoOrigen": 9.0,
+    "montoDestino": 38652.010200000004,
+    "fecha": "2025-01-16T19:18:59.253253"
+  },
+  {
+    "monedaOrigen": "COP",
+    "monedaDestino": "USD",
+    "montoOrigen": 10.0,
+    "montoDestino": 0.002328468804967872,
+    "fecha": "2025-01-16T19:19:02.4571443"
+  }
+]
