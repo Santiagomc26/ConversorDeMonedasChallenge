@@ -8,16 +8,11 @@ Un proyecto en **Java** que facilita la conversión entre diversas monedas, util
 
 1. [Características](#características)
 2. [Requisitos](#requisitos)
-3. [Instalación](#instalación)
-4. [Uso](#uso)
-5. [Ejemplo de Flujo](#ejemplo-de-flujo)
-6. [Personalización](#personalización)
-   - [Agregar Más Monedas](#agregar-más-monedas)
-   - [Cambiar el Idioma](#cambiar-el-idioma)
-7. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-8. [Contribución](#contribución)
-9. [Autor](#autor)
-10. [Licencia](#licencia)
+3. [Uso](#uso)
+4. [Autor](#autor)
+5. [Ejemplos](#Ejemplos)
+
+    
 
 ---
 
@@ -47,6 +42,33 @@ Para ejecutar este proyecto necesitas:
 - **Gson (Google's JSON Library)**  
   
 ---
+
+## Uso
+
+-**Para correr el proyecto, debe instalar el Gson y insertarlo en modelos de intelliJ IDEA**
+![image](https://github.com/user-attachments/assets/eb435b96-5de9-43a3-a068-68f6edd9aec6)
+![image](https://github.com/user-attachments/assets/76abf9ba-4bd7-42aa-8e88-7470aec26912)
+
+-**Luego correr en la Clase Main**
+![image](https://github.com/user-attachments/assets/0195f4be-0131-4235-ab2a-637b22cc06ed)
+
+Y disfruta
+
+--
+# Autor
+
+**Santiago Muñoz Córdoba**
+
+Soy un apasionado del desarrollo de software, especialmente en aplicaciones que resuelven problemas cotidianos y hacen la vida más fácil a los usuarios.
+
+## Puedes encontrarme en:
+
+- **GitHub**: [Santiagomc26](https://github.com/Santiagomc26)
+- **LinkedIn**: ([https://www.linkedin.com/in/TuPerfil](https://www.linkedin.com/in/santiago-mu%C3%B1oz-c%C3%B3rdoba-18a241263/))
+
+
+--
+
 ## Ejemplos
 -**Menu**
 ![image](https://github.com/user-attachments/assets/742a2bd1-3c97-464f-9394-220a08d9664a)
